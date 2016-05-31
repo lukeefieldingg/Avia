@@ -1,0 +1,10 @@
+.jumbotron {
+    padding-top: 5px;
+    background-color: lightblue;
+}
+
+h1.jumbo {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
